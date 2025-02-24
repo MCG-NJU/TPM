@@ -33,7 +33,9 @@ conda env create -f environment.yaml
 python train.py
 `
 
-- Inference our two-stream policy on a Franka robot
+### Inference our two-stream policy on a Franka robot:
+
+- Run inference
 `
 python inference/inference.py
 `
