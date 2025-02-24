@@ -32,6 +32,12 @@ conda env create -f environment.yaml
 `
 python train.py
 `
+
+- Inference our two-stream policy on a Franka robot
+`
+python inference/inference.py
+`
+
 ## Citation
 Please cite the following paper if you feel this repository useful for your research.
 ```
@@ -52,6 +58,8 @@ Please cite the following paper if you feel this repository useful for your rese
 }
 ```
 ## Acknowledges
+[Movelt](https://github.com/moveit/moveit)
+
 [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) 
 
 [Mixfromer](https://github.com/MCG-NJU/MixFormer)  [MixformerV2](https://github.com/MCG-NJU/MixFormerV2) 
