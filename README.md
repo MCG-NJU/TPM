@@ -40,6 +40,14 @@ Please cite the following paper if you feel this repository useful for your rese
   year={2023}
 }
 
+@article{yang2023pave,
+  title={Pave the way to grasp anything: Transferring foundation models for universal pick-place robots},
+  author={Yang, Jiange and Tan, Wenhui and Jin, Chuhao and Liu, Bei and Fu, Jianlong and Song, Ruihua and Wang, Limin},
+  journal={arXiv preprint arXiv:2306.05716},
+  volume={1},
+  number={2},
+  year={2023}
+}
 ```
 ## Acknowledges
 [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) 
