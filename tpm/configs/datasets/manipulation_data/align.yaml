@@ -1,0 +1,12 @@
+datasets:
+  manipulation_data:
+    data_type: images
+    build_info:
+      storage: /Data/FINAL_GRASP_DATA/place_on22
+# our_data
+
+
+
+
+
+
