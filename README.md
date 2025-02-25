@@ -60,6 +60,9 @@ Please cite the following paper if you feel this repository useful for your rese
 }
 ```
 ## Acknowledges
+
+Thanks to the open source of the following projects:
+
 [Movelt](https://github.com/moveit/moveit)
 
 [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) 
