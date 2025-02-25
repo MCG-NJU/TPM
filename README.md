@@ -8,7 +8,7 @@
 ## Getting started
 
 ### Preparation:
-- Install ROS Noetic
+- Install ROS Noetic and [Movelt](https://github.com/moveit/moveit)
 
 - Clone GroundingDINO for open-vocab object detection
 `git clone https://github.com/IDEA-Research/GroundingDINO.git`
