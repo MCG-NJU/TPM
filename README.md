@@ -8,7 +8,7 @@
 ## Getting started
 
 ### Preparation:
-- Install ROS Noetic
+- Install ROS Noetic and [Movelt](https://github.com/moveit/moveit)
 
 - Clone GroundingDINO for open-vocab object detection
 `git clone https://github.com/IDEA-Research/GroundingDINO.git`
@@ -32,9 +32,26 @@ conda env create -f environment.yaml
 `
 python train.py
 `
+
+### Inference our two-stream policy on a Franka robot:
+
+- Run inference
+`
+python inference/inference.py
+`
+
 ## Citation
 Please cite the following paper if you feel this repository useful for your research.
 ```
+@InProceedings{Yang_2025_WACV,
+    author    = {Yang, Jiange and Tan, Wenhui and Jin, Chuhao and Yao, Keling and Liu, Bei and Fu, Jianlong and Song, Ruihua and Wu, Gangshan and Wang, Limin},
+    title     = {Transferring Foundation Models for Generalizable Robotic Manipulation},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {1999-2010}
+}
+
 @article{yang2023transferring,
   title={Transferring foundation models for generalizable robotic manipulation},
   author={Yang, Jiange and Tan, Wenhui and Jin, Chuhao and Yao, Keling and Liu, Bei and Fu, Jianlong and Song, Ruihua and Wu, Gangshan and Wang, Limin},
@@ -52,6 +69,11 @@ Please cite the following paper if you feel this repository useful for your rese
 }
 ```
 ## Acknowledges
+
+Thanks to the open source of the following projects:
+
+[Movelt](https://github.com/moveit/moveit)
+
 [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) 
 
 [Mixfromer](https://github.com/MCG-NJU/MixFormer)  [MixformerV2](https://github.com/MCG-NJU/MixFormerV2) 
