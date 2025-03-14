@@ -364,6 +364,12 @@ class GraspAnythingInterface(MoveGroupPythonInterface):
             else:
                 y_pred = [[1,], ]
             print("End effector predicted by decision tree:", y_pred[0])
+
+            '''
+            In the very early stages of our project, due to the limited data available, we found that using the IoU (Intersection over Union) of the bounding boxes of the source object and the 
+            target object as input to a decision tree model could better predict the gripper's open/close state during placement. However, as more data became available and the tasks grew more 
+            complex, we abandoned this trick.
+            '''
             return resp['action'], resp['binary_class'], y_pred[0]
 
         def _save_image(image_id, view):
