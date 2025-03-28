@@ -1,7 +1,7 @@
 ### [WACV 2025 Oral] [Transferring Foundation Models for Generalizable Robotic Manipulation](https://arxiv.org/pdf/2306.05716)
 ### [Arxiv 23.06] [Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots](https://arxiv.org/abs/2306.05716v1)
 
-#[zhihu](https://zhuanlan.zhihu.com/p/29826500937)
+# [zhihu](https://zhuanlan.zhihu.com/p/29826500937)
 
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=MAcUPFBfRIw)&nbsp;&nbsp;&nbsp;&nbsp;[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=1m9wNzfp_4E&t=1s)&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.bilibili.com/video/BV178411Z7H2/?spm_id_from=333.337.search-card.all.click&vd_source=6ef02624a258fc3bb2d549db99686bc9"><img src="https://upload.wikimedia.org/wikipedia/en/b/b7/Bilibili_logo.svg" alt="Bilibili" width="50"></a>
 
