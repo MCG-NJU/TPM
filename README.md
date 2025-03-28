@@ -2,7 +2,7 @@
 ### [Arxiv 23.06] [Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots](https://arxiv.org/abs/2306.05716v1)
 
 
-[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=MAcUPFBfRIw)&nbsp;&nbsp;&nbsp;&nbsp;[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=1m9wNzfp_4E&t=1s)&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.bilibili.com/video/BV178411Z7H2/?spm_id_from=333.337.search-card.all.click&vd_source=6ef02624a258fc3bb2d549db99686bc9"><img src="https://upload.wikimedia.org/wikipedia/en/b/b7/Bilibili_logo.svg" alt="Bilibili" width="50"></a>
+[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=MAcUPFBfRIw)&nbsp;&nbsp;&nbsp;&nbsp;[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=1m9wNzfp_4E&t=1s)&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.bilibili.com/video/BV178411Z7H2/?spm_id_from=333.337.search-card.all.click&vd_source=6ef02624a258fc3bb2d549db99686bc9"><img src="https://upload.wikimedia.org/wikipedia/en/b/b7/Bilibili_logo.svg" alt="Bilibili" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://zhuanlan.zhihu.com/p/29826500937"><img src="https://zh.wikipedia.org/zh-cn/File:Zhihu_logo.svg" alt="zhihu" width="50"></a>
 
 ![caps](./frame_work.png)
 
